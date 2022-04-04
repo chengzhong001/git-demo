@@ -1,2 +1,5 @@
 git add . 添加文件
 git commit -m "first commit"" 添加文件进版本库
+git log 查看提交日志日志
+git reflog 查看提交所有记录
+git reset --hard bb87795 恢复到指定版本
