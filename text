@@ -1,0 +1,2 @@
+git add . 添加文件
+git commit -m "first commit"" 添加文件进版本库
