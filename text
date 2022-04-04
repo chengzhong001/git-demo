@@ -4,6 +4,13 @@ git log 查看提交日志日志
 git reflog 查看提交所有记录
 git reset --hard bb87795 恢复到指定版本
 
-git remote add origin https://github.com/chengzhong001/git-demo.git
+git remote add origin https://github.com/chengzhong001/git-demo.git 第一次远程仓库和本地仓库进行关联
+git remote set-url origin https://github.com/chengzhong001/sp22.git 重新设置远程仓库地址
 git branch -M master
 git push -u origin master
+
+git clone 从远程仓库将代码拉取到本地
+
+git add 
+git commit 
+git push
